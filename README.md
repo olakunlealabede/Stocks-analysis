@@ -84,25 +84,16 @@ Below our Final VBA Analysis PNGs,
 
 Final VBA Analysis 2017
 
-name-of-you-image
+
+<img width="626" alt="stock2017" src="https://user-images.githubusercontent.com/89113627/133308745-4966fe8d-970d-4d70-8602-2ddb8b49c8fa.PNG">
 
 Final VBA Analysis 2018
 
-name-of-you-image
+<img width="659" alt="stock1" src="https://user-images.githubusercontent.com/89113627/133308769-46c4b529-f38b-4c57-812c-5269b4d3bda6.PNG">
 
-8. The pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png
 
-Running our fully 2017 and 2018 data stock analysis gave us an elapsed run time for each year, below our results.
 
-Time on VBA_Challenge_2017.PNG
-
-name-of-you-image
-
-Time on VBA_Challenge_2018.PNG
-
-name-of-you-image
-
-SUMMARY: Our Statement:
+##  SUMMARY: Our Statement:
 Deliverable with detail analysis:
 1. What are the advantages or disadvantages of refactoring code?
 
